@@ -1,0 +1,21 @@
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\bin\Debug\net6.0-windows\Test Your Vocabulary.exe
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\bin\Debug\net6.0-windows\Test Your Vocabulary.deps.json
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\bin\Debug\net6.0-windows\Test Your Vocabulary.runtimeconfig.json
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\bin\Debug\net6.0-windows\Test Your Vocabulary.dll
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\bin\Debug\net6.0-windows\Test Your Vocabulary.pdb
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.csproj.AssemblyReference.cache
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test_Your_Vocabulary.MainForm.resources
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test_Your_Vocabulary.Properties.Resources.resources
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.csproj.GenerateResource.cache
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.AssemblyInfoInputs.cache
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.AssemblyInfo.cs
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.dll
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\refint\Test Your Vocabulary.dll
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.pdb
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test Your Vocabulary.genruntimeconfig.cache
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\ref\Test Your Vocabulary.dll
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test_Your_Vocabulary.EasyForm.resources
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test_Your_Vocabulary.HardForm.resources
+C:\Users\Charles Mc\source\repos\Test Your Vocabulary\obj\Debug\net6.0-windows\Test_Your_Vocabulary.MediumForm.resources
